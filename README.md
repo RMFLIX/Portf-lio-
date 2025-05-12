@@ -1,1 +1,1 @@
-Projeto feito por mim com ajuda do Alura, infelizmente não consegui realizar o projeto igual o do vídeo. O meu trabalho está sem o botão que leva ao link dos três trabalhos mencionados por mim.
+Projeto feito por mim com ajuda do Alura, infelizmente não consegui realizar o projeto igual o do vídeo. O meu trabalho está sem o botão que leva ao link dos três trabalhos mencionados. Agradeço a compreensão.
